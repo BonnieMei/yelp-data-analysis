@@ -13,6 +13,7 @@ The goal is to explore business ratings, user behaviors, review sentiments, and 
 - SQL Report: [yelp_data_analysis.pdf](./yelp_data_analysis.pdf)
 - Python Notebook: [yelp_report.ipynb](./yelp_report.ipynb)
   - [Open in Google Colab](https://colab.research.google.com/github/xxbuxx/yelp-data-analysis/blob/main/yelp_report.ipynb)
+- Tableau Dashboard: [View Here](https://public.tableau.com/views/Yelp_business_analysis/Dashboard1?:language=zh-CN&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
   
 ## Key Insights
 - **User Behavior**
